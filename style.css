@@ -1,12 +1,12 @@
 body {
-    background-color: #cfc5c5;
+    background-color: #6d5f5f;
     ;
 }
 
 .sectionHeader {color:rgb(82, 109, 56);}
 
 .diaryHeader{
-    color: violet;
+    color: rgb(94, 255, 0);
     font-size: 64px;
 
 }
