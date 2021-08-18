@@ -1,0 +1,36 @@
+body {
+    background-color: #cfc5c5;
+    ;
+}
+
+.sectionHeader {color:rgb(82, 109, 56);}
+
+.diaryHeader{
+    color: violet;
+    font-size: 64px;
+
+}
+
+.sectionForeHead{color: rgba(107, 60, 216, 0.63);}
+
+.ssectionHeader{color: rgb(255, 0, 140);}
+
+.sectionBody{color:     rgb(141, 17, 17);}
+
+
+
+.mainHeader {
+    color: rgb(214, 63, 63);
+    font-size: 50px;
+    background-color: hotpink;
+}
+#pamietniczek{background: rgb(50, 68, 13);}
+
+
+p {
+    color: darkblue;
+}
+
+body main#main h1.heading {color: blue;}
+
+body main#main h1.heading {color:red;}
