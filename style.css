@@ -1,36 +1,47 @@
 body {
-    background-color: #6d5f5f;
-    ;
+  background-color: #c07979;
 }
 
-.sectionHeader {color:rgb(82, 109, 56);}
-
-.diaryHeader{
-    color: rgb(94, 255, 0);
-    font-size: 64px;
-
+.sectionHeader {
+  color: rgb(82, 109, 56);
 }
 
-.sectionForeHead{color: rgba(107, 60, 216, 0.63);}
+.diaryHeader {
+  color: rgb(94, 255, 0);
+  font-size: 64px;
+}
+.sectionForeHead {
+  padding-top: 30px;
+  padding-right: 80px;
+  padding-bottom: 50px;
+  padding-left: 70px;
+}
 
-.ssectionHeader{color: rgb(255, 0, 140);}
+.sectionForeHead {
+  color: rgba(216, 60, 120, 0.63);
+}
 
-.sectionBody{color:     rgb(141, 17, 17);}
+.ssectionHeader {
+  color: rgb(255, 0, 140);
+}
 
-
+.sectionBody {
+  color: rgb(141, 17, 17);
+}
 
 .mainHeader {
-    color: rgb(214, 63, 63);
-    font-size: 50px;
-    background-color: hotpink;
+  color: rgb(214, 63, 63);
+  font-size: 50px;
+  background-color: hotpink;
 }
-#pamietniczek{background: rgb(50, 68, 13);}
-
-
-p {
-    color: darkblue;
+#pamietniczek {
+  background: rgb(50, 68, 13);
 }
 
-body main#main h1.heading {color: blue;}
+body main#main h1.heading {
+  color: black;
+}
 
-body main#main h1.heading {color:red;}
+body main#main h1.heading {
+  color: red;
+}
